@@ -11,4 +11,5 @@
 >git branch
 >git merge
 >git checkout
+>git pull
 ```
