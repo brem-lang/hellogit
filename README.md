@@ -7,5 +7,8 @@
 >git commit -m ""
 >git push -u origin master
 >git push
->git remote -v
+>git 
+>git branch
+>git merge
+>git checkout
 ```
